@@ -1,8 +1,10 @@
-# Big-Mart-Sales-Prediction-in-ML
-# 🚀 Quick Start for Big Mart Sales Prediction
+# 📊 Big Mart Sales Prediction using ML
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NirjaraSK/Big-Mart-Sales-Prediction-In-ML/blob/main/notebooks/Notebook.ipynb)
+
+## 🚀 Quick Start
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-pip install -r requirements.txt
+git clone https://github.com/NirjaraSK/Big-Mart-Sales-Prediction-In-ML.git
+cd Big-Mart-Sales-Prediction-In-ML
